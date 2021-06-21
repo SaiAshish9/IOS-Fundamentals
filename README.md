@@ -53,3 +53,9 @@ Ios -> App -> Swift -> StoryBoard -> Location
 ```
 cmd + shift + Y
 ```
+
+# Customizing the icon
+```
+appicon.co
+```
+
