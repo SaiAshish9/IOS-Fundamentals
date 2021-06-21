@@ -70,10 +70,11 @@ appicon.co
 5. Windows -> Device & Simulators -> Connect via network 
 ```
 
-# brew
+# HomeBrew
 
 ```
 https://brew.sh/
+echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
 brew install git
 brew reinstall git
 ```
