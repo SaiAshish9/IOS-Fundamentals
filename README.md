@@ -59,3 +59,14 @@ cmd + shift + Y
 appicon.co
 ```
 
+# Connect to physical device:
+
+```
+1. Xcode -> about -> software version  (xcode 11.0 -> ios 13.0, number after the decimal should be same)
+   iphone (/Simulator) -> Settings -> General -> About-> Software Version 
+2. Xcode -> preferences -> accounts -> +
+3. Signing and capabilities -> choose account ID
+4. complete trust and complete the process options
+5. Windows -> Device & Simulators -> Connect via network 
+```
+
