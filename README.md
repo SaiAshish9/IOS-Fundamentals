@@ -23,3 +23,9 @@ Apple icon -> about this mac -> storage
 ```
 Xcode beta version is paid and used for testing.  
 ```
+
+# Download Xcode
+
+```
+cmd + space -> search xcode -> download xcode
+```
