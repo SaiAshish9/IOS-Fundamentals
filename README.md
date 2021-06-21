@@ -70,3 +70,14 @@ appicon.co
 5. Windows -> Device & Simulators -> Connect via network 
 ```
 
+# brew
+
+```
+https://brew.sh/
+brew install git
+brew reinstall git
+```
+
+```
+git also comes with xcode
+```
