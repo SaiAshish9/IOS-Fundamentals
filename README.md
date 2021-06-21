@@ -8,6 +8,12 @@
 cmd + shift + 4
 ```
 
+# Full Screen ScreenShot
+
+```
+cmd + shift + 3
+```
+
 # Device Storage
 
 ```
@@ -29,3 +35,16 @@ Xcode beta version is paid and used for testing.
 ```
 cmd + space -> search xcode -> download xcode
 ```
+
+# Create a new xcode project
+
+```
+Ios -> App -> Swift -> StoryBoard -> Location
+```
+
+# Xcode file
+
+```
+.xcodeproj
+```
+  
