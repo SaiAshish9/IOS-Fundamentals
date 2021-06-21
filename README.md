@@ -48,3 +48,8 @@ Ios -> App -> Swift -> StoryBoard -> Location
 .xcodeproj
 ```
   
+# Toggle Debug Area
+
+```
+cmd + shift + Y
+```
