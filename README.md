@@ -82,3 +82,12 @@ brew reinstall git
 ```
 git also comes with xcode
 ```
+
+# Interface Builder
+
+```
+Main.storyboard is also known as interface builder as we're making use of it in order to build a interface
+
+top right bars icon -> assistant.
+
+```
